@@ -1,3 +1,4 @@
-git remote add origin https://github.com/PixelWitch08/my-insurance-app.git
-git branch -M main
-git push -u origin main
+streamlit
+pandas
+jdatetime
+openpyxl
